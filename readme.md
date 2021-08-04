@@ -1,0 +1,1 @@
+I have trouble settings up domain to api
